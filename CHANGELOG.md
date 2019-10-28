@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v1.1.0...v1.1.1) (2019-10-28)
+
+
+### Bug Fixes
+
+* upgrade build tools, move to fake 5 ([3cc5e38](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/3cc5e38))
+
 # [1.1.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v1.0.3...v1.1.0) (2019-08-21)
 
 
