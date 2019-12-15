@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.0.0...v2.1.0) (2019-12-15)
+
+
+### Features
+
+* upgrade to netcoreapp31 ([51b3694](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/51b3694f4cad041f4bea0a798cc6d20654ade103))
+
 # [2.0.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v1.1.1...v2.0.0) (2019-11-18)
 
 
