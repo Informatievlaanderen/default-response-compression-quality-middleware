@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.2.1...v2.2.2) (2020-05-07)
+
+
+### Bug Fixes
+
+* move to GH-actions ([ea2c0a5](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/ea2c0a5d155d4bb1472245b12cfed2232a37ac56))
+
 ## [2.2.1](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.2.0...v2.2.1) (2020-03-02)
 
 
