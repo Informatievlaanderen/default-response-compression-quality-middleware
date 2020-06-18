@@ -1,6 +1,6 @@
 {
   "name": "default-response-compression-quality-middleware",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "ASP.NET Core MVC Middleware to define default compression quality priorities.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
@@ -48,7 +48,10 @@
     ]
   },
   "release": {
-    "branches": [ "master", "main" ],
+    "branches": [
+      "master",
+      "main"
+    ],
     "verifyConditions": [
       "@semantic-release/changelog",
       "@semantic-release/git",
