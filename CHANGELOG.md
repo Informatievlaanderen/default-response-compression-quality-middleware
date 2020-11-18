@@ -1,3 +1,10 @@
+## [2.2.7](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.2.6...v2.2.7) (2020-11-18)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([549e5f1](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/549e5f1f161cce7a30aaea1146c403222665580d))
+
 ## [2.2.6](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.2.5...v2.2.6) (2020-09-21)
 
 
