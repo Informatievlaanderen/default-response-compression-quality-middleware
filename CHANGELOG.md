@@ -1,3 +1,10 @@
+## [2.2.8](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.2.7...v2.2.8) (2020-12-17)
+
+
+### Bug Fixes
+
+* move to 5.0.1 ([e7a625f](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/e7a625f9d6d68e5cefdefe22c13230732606874a))
+
 ## [2.2.7](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.2.6...v2.2.7) (2020-11-18)
 
 
