@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v3.0.0...v4.0.0) (2024-03-06)
+
+
+### Features
+
+* move to net8.0.2 ([8d71439](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/8d714399ddca9609e9c6e11e8e54dfb0cb33a6d2))
+
+
+### BREAKING CHANGES
+
+* move to net8.0.2
+
 # [3.0.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v2.2.11...v3.0.0) (2022-03-23)
 
 
