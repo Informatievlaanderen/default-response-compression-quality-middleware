@@ -1,4 +1,4 @@
-# Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.DefaultResponseCompressionQuality [![Build Status](https://github.com/Informatievlaanderen/default-response-compression-quality-middleware/workflows/build/badge.svg)](https://github.com/Informatievlaanderen/default-response-compression-quality-middleware/actions)
+# Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.DefaultResponseCompressionQuality [![Build Status](https://github.com/Informatievlaanderen/default-response-compression-quality-middleware/workflows/Build/badge.svg)](https://github.com/Informatievlaanderen/default-response-compression-quality-middleware/actions)
 
 ASP.NET Core MVC Middleware to define default compression quality priorities.
 
