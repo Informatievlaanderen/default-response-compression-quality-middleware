@@ -23,7 +23,6 @@ namespace Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware
 
             if (!StringValues.IsNullOrEmpty(encodings) &&
                 StringWithQualityHeaderValue.TryParseList(encodings, out var encodingsList) &&
-                encodingsList != null &&
                 encodingsList.Count > 0)
             {
                 var encodingsWithQuality = new string[encodingsList.Count];
@@ -41,8 +40,8 @@ namespace Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware
                     encodingsWithQuality[encodingIndex] =
                         new StringWithQualityHeaderValue(
                             encodingValue,
-                            _encodingQuality.ContainsKey(encodingValue)
-                                ? _encodingQuality[encodingValue]
+                            _encodingQuality.TryGetValue(encodingValue, out var value)
+                                ? value
                                 : 0.1).ToString();
                 }
 
