@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([fcba15f](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/fcba15f7f87ba993c938c64e7f48091009e80975))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [4.0.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v3.0.0...v4.0.0) (2024-03-06)
 
 
