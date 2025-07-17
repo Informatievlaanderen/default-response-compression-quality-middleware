@@ -9,7 +9,7 @@
     "url": "git@github.com:informatievlaanderen/default-response-compression-quality-middleware.git"
   },
   "dependencies": {
-    "compression": "^1.8.0"
+    "compression": "^1.8.1"
   },
   "devDependencies": {
     "@commitlint/cli": "19.8.0",
