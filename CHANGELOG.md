@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v5.0.0...v5.1.0) (2026-06-01)
+
+
+### Features
+
+* update packages ([00bd5f7](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/commit/00bd5f757658540bc3445c1392e4808f081900e3))
+
 # [5.0.0](https://github.com/informatievlaanderen/default-response-compression-quality-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
 
 
